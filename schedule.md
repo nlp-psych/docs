@@ -1,3 +1,3 @@
-| Lecture	|	Date	|	Topic	|	Assignments	|
+|: Lecture	|:	Date	|:	Topic	|:	Assignments	|
 |---------|-------|-------|-------------|
-| Introduction, manifesto, NLP overview	|	Github startup	|
+| 1	| 2/1 |	Introduction, manifesto, NLP overview	|	Github startup	|
