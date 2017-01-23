@@ -1,3 +1,4 @@
-|: Lecture	|:	Date	|:	Topic	|:	Assignments	|
+| Lecture	|	Date	|	Topic	|	Assignments	|
 |---------|-------|-------|-------------|
-| 1	| 2/1 |	Introduction, manifesto, NLP overview	|	Github startup	|
+| 1	| 2/1 |	Introduction, manifesto, NLP overview	|	Get started with Github |
+| 2 | 2/8 | Gender<br> Readings: <ul><li><a href="http://www.sci.brooklyn.cuny.edu/~levitan/nlp-psych/papers/lakoff_language_and_womans_place.pdf" target=_blank>Lakoff's Language and Woman's Place</a></li><li><a href="http://www.sci.brooklyn.cuny.edu/~levitan/nlp-psych/papers/leaper_tentative_empirical.pdf" target=_blank>Leaper &amp; Robnett. "Women are more likely than men to use tentative language, aren't they?"</a></li><li><a href="http://u.cs.biu.ac.il/~koppel/papers/male-female-text-final.pdf" target=_blank>Argamon et al. "Gender, Genre and Writing Style in Formal Written Texts"</a></li></ul> | Data assignment #1: gender classification |
