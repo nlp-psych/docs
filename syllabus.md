@@ -3,7 +3,7 @@
 ## LING 78000, CSC 84010
 
 ### Instructor: [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/)
-### Time: Wednesdays 11:45-1:35
+### Time: Wednesdays 11:45-1:45
 ### Location: Graduate Center Rm. 6421
 
 ## Course description:
