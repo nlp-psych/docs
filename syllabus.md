@@ -1,10 +1,13 @@
 ---
 layout: default
 title: home
+redirect_from: "index.md"
 ---
 
 ### Instructor: [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/)
+
 ### Time: Wednesdays 11:45-1:45
+
 ### Location: Graduate Center Rm. 6421
 
 ## Course description:
@@ -13,6 +16,7 @@ Topics covered will include: gender, deception, emotion, entrainment, trauma, me
 
 ## Learning outcomes: 
 The student will be able to
+
 * critically read a research paper in natural language processing or psychology
 * use spoken and natural language processing tools and techniques
 * evaluate spoken and natural language processing applications
