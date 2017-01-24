@@ -29,8 +29,8 @@ In addition, the student will be familiar with research topics and state of the 
 Readings will be assigned from research papers.
 
 ## Gradables:
-* **Assignments**: 32% (4 x 8%). These assignments will involve analyzing data, performing a classification task, and writing a short report. 
-* **Hackathons**: 60% (2 x 30%). There will be a midterm and final in-class hackathon in which teams extract features from the given data, train classifiers, and compare performance on unseen data.
-* **Participation**: 8%. Includes attendance and contributions to class discussion.
+* **Assignments**: 40% (4 x 10%). These assignments will involve analyzing data, performing a classification task, and writing a short report. 
+* **Hackathons**: 50% (2 x 25%). There will be a midterm and final in-class hackathon in which teams extract features from the given data, train classifiers, and compare performance on unseen data.
+* **Participation**: 10%. Includes attendance and contributions to class discussion.
 
 
